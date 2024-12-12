@@ -8,14 +8,11 @@ public class Game {
         System.out.println(d.me);
     }
 
-    g.start(){
+    void start(){
         p.turn(d);
         System.out.println(d.me);
     }
 
-    void start(){
-        p.turn(d);
-    }
     void judge(){
 
     }
